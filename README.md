@@ -10,8 +10,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=couplesuicide&theme=transparent&show_icons=true&hide_border=true&count_private=true&locale=en&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
+
 
   <br/>
   <br/>
