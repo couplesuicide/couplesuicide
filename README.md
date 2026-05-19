@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.catbox.moe/w3pw33.jpg" alt="Banner" width="100%" style="border-radius: 15px;">
+  <img src="https://files.catbox.moe/jpvudy.png" alt="Banner" width="100%" style="border-radius: 15px;">
 </div>
 
 <h1>
