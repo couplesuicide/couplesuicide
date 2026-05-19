@@ -7,9 +7,9 @@
   Hi, I'm Wade!
 </h1>
 
-<img src="https://skillicons.dev/icons?i=py,rust,c,docker,mysql,terraform,kubernetes,ansible&perline=4" align="right" alt="learning stack" />
-
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Beginner DevSecOps Specialist</div> 
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Beginner DevSecOps Specialist
+</h3>
 
 <ul>
   <li>
@@ -22,8 +22,6 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal Emoji" width="25px" align="center" /> <strong>Aspiring to become a professional coder</strong>
   </li>
 </ul>
-
-<br clear="all" />
 
 <div align="center">
   <picture>
