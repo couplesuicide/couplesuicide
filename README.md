@@ -7,7 +7,10 @@
   Hi, I'm Wade!
 </h1>
 
-<img src="https://skillicons.dev/icons?i=py,rust,c,docker,mysql,terraform,kubernetes,ansible&perline=4" align="right" alt="Currently learning" />
+<div align="right" style="float: right;">
+  <h3>Currently learning:</h3>
+  <img src="https://skillicons.dev/icons?i=py,rust,c,docker,mysql,terraform,kubernetes,ansible&perline=4" alt="learning stack" />
+</div>
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Beginner DevSecOps Specialist</div> 
 
@@ -21,13 +24,9 @@
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal Emoji" width="25px" align="center" /> <strong>Aspiring to become a professional coder</strong>
   </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Hit me up on TG: <strong>@wades</strong> / <strong>@edgyteen</strong>
-  </li>
 </ul>
 
 <br clear="all" />
-<br><br>
 
 <div align="center">
   <picture>
