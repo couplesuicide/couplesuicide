@@ -7,12 +7,15 @@
   Hi, I'm Wade!
 </h1>
 
-<div align="right" style="float: right;">
-  <h3>Currently learning:</h3>
+<div align="right">
+  <strong>Currently learning:</strong><br />
   <img src="https://skillicons.dev/icons?i=py,rust,c,docker,mysql,terraform,kubernetes,ansible&perline=4" alt="learning stack" />
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Beginner DevSecOps Specialist</div> 
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> 
+  <strong>Beginner DevSecOps Specialist</strong>
+</p>
 
 <ul>
   <li>
@@ -27,6 +30,7 @@
 </ul>
 
 <br clear="all" />
+<br><br>
 
 <div align="center">
   <picture>
