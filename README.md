@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://files.catbox.moe/hqeqgy.png" alt="Banner" width="60%" style="border-radius: 15px;">
+  <img src="https://files.catbox.moe/53fqy1.jpg" alt="Banner" width="85%" height="55%" style="border-radius: 15px;">
 </div>
-
-<img src="https://files.catbox.moe/dk03b7.jpg" align="right" width="200" style="border-radius: 10px; margin-left: 20px;" alt="Profile">
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
@@ -24,8 +22,6 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal Emoji" width="25px" align="center" /> <strong>Aspiring to become a professional coder</strong>
   </li>
 </ul>
-
-<br clear="all" />
 
 <div align="center">
   <picture>
