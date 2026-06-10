@@ -2,8 +2,8 @@
   <img src="https://files.catbox.moe/l10u5e.png" alt="Banner" width="100%" style="border-radius: 10px;">
 </div>
 
-<h2>Hi, I'm Wade</h2>
-<p><code>I'm studying and want to become a DevSecOps senior</code></p>
+<h1>Hi, I'm Wade</h1>
+<h3><code>I'm studying and want to become a DevSecOps senior</code></h3>
 
 ## Stack & Focus
 
