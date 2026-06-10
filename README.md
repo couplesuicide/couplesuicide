@@ -5,11 +5,11 @@
 <h1>Hi, I'm Wade</h1>
 <h3><code>I'm studying and want to become a DevSecOps senior</code></h3>
 
----
+-
 
 <h4><code>Backend & DB: Building secure backend architectures and database management.<br>
-Security: Advanced OpSec, identity & access management, and secure environment setup.<br>
-Infrastructure: Exploring CI/CD pipelines, automated security scanning, and server administration.</code></h4>
+ Security: Advanced OpSec, identity & access management, and secure environment setup.<br>
+ Infrastructure: Exploring CI/CD pipelines, automated security scanning, and server administration.</code></h4>
 
 <div align="center">
   <picture>
