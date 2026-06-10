@@ -7,7 +7,7 @@
 
 
 
-<h4><code>Backend & DB: Building secure backend architectures and database management.<br>
+<h4><code> Backend & DB: Building secure backend architectures and database management.<br>
  Security: Advanced OpSec, identity & access management, and secure environment setup.<br>
  Infrastructure: Exploring CI/CD pipelines, automated security scanning, and server administration.</code></h4>
 
