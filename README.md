@@ -5,11 +5,10 @@
 <h1>Hi, I'm Wade</h1>
 <h3><code>I'm studying and want to become a DevSecOps senior</code></h3>
 
-## Stack & Focus
+### Stack & Focus
+<h4><code>Backend & DB: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="22" align="center" /> Database Management and backend logic.</code></h4>
+<h4><code>Security: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" align="center" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="22" align="center" /> Information Security, OpSec best practices, and secure environment setup.</code></h4>
 
-<pre><code>Backend & DB: Database Management and backend logic.
-Security: Information Security, Operational Security best practices, and secure environment setup.
-Goals: Preparing for a professional coding career.</code></pre>
 
 <br>
 
