@@ -7,9 +7,9 @@
 
 ## Stack & Focus
 
-* **Backend & DB:** Database Management and backend logic.
-* **Security:** Information Security, Operational Security best practices, and secure environment setup.
-* **Goals:** Preparing for a professional coding career.
+<pre><code>Backend & DB: Database Management and backend logic.
+Security: Information Security, Operational Security best practices, and secure environment setup.
+Goals: Preparing for a professional coding career.</code></pre>
 
 <br>
 
