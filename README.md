@@ -1,27 +1,20 @@
 <div align="center">
-  <img src="https://files.catbox.moe/l10u5e.png" alt="Banner" width="100%" style="border-radius: 15px;">
+  
+  <img src="https://files.catbox.moe/l10u5e.png" alt="Banner" width="100%" style="border-radius: 10px;">
+
+  <h1>Hi, I'm Wade</h1>
+  <p><b>Beginner DevSecOps Specialist</b></p>
 </div>
 
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm Wade!
-</h1>
+---
 
-<h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Beginner DevSecOps Specialist
-</h3>
+###  Stack & Focus
 
-<ul>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Focused on <strong>Database Management</strong> and backend logic
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Lock Emoji" width="25px" align="center" /> Dedicated to <strong>Information Security</strong> best practices
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal Emoji" width="25px" align="center" /> <strong>Aspiring to become a professional coder</strong>
-  </li>
-</ul>
+* **Backend & DB:** Database Management and backend logic.
+* **Security:** Information Security, Operational Security best practices, and secure environment setup.
+* **Goals:** Preparing for a professional coding career.
+
+<br>
 
 <div align="center">
   <picture>
