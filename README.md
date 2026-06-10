@@ -7,7 +7,7 @@
 
 ### Stack & Focus
 <h4><code>Backend & DB: Database Management and backend logic.<br>
-Security: Information Security, Operational Security best practices, and secure environment setup.</code></h4>
+Security: Information Security, Operational Security and secure environment setup.</code></h4>
 <br>
 
 <div align="center">
