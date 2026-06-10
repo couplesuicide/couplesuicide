@@ -6,7 +6,6 @@
   <p><b>Beginner DevSecOps Specialist</b></p>
 </div>
 
----
 
 ###  Stack & Focus
 
