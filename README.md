@@ -1,13 +1,11 @@
 <div align="center">
-  
   <img src="https://files.catbox.moe/l10u5e.png" alt="Banner" width="100%" style="border-radius: 10px;">
-
-  <h1>Hi, I'm Wade</h1>
-  <p><b>Beginner DevSecOps Specialist</b></p>
 </div>
 
+<h1>Hi, I'm Wade</h1>
+<p><b>I'm studying and want to become a DevSecOps senior</b></p>
 
-###  Stack & Focus
+## Stack & Focus
 
 * **Backend & DB:** Database Management and backend logic.
 * **Security:** Information Security, Operational Security best practices, and secure environment setup.
